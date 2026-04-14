@@ -11,3 +11,17 @@
     padding: 50px;
     background-color: #7da773;
 }
+
+ol, li {
+    padding: 10px 0px;
+    margin: 0px 35px;
+}
+
+form{
+    background-color: white;
+    padding: 15px;
+}
+
+h1, h2{
+    padding: 10px 0px;
+}
